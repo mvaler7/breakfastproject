@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_nqr_lq2_5x">
+    <title>French Toast</title>
+    <shortdesc>How to make some nice french toast.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients and Materials:
+                <ul>
+                    <li audience="mom">1 egg</li>
+                    <li audience="mom">Milk</li>
+                    <li audience="mom">Butter</li>
+                    <li audience="armando">Almond Milk</li>
+                    <li audience="armando">Chia seeds</li>
+                    <li audience="armando">Agave</li>
+                    <li audience="armando">Coconut oil</li>
+                    <li>Vanilla extract</li>
+                    <li>Cinnamon</li>
+                    <li audience="mom">Bread</li>
+                    <li audience="armando">Vegan Bread</li>
+                    <li>Medium Pan</li>
+                    <li>Tongs</li>
+                    <li>Large plastic container</li>
+                    <li>Plastic spatula</li>
+                    <li>Maple syrup</li>
+                </ul>
+                Recipie:
+                <ol>
+                    <li>Set stove burner to medium heat (5)</li>
+                    <li audience="mom">Put butter in pan</li>
+                    <li audience="armando">Place pan on heat and add coconut oil</li>
+                    <li audience="mom">Crack egg into large plastic container</li>
+                    <li audience="armando">Get plastic tupperware container</li>
+                    <li>Pour 1 cup of milk into container</li>
+                    <li audience="armando">Grind chia seeds and add to container</li>
+                    <li audience="armando">Add agave</li>
+                    <li>Add cinnammon</li>
+                    <li>Mix ingredients in container slightly</li>
+                    <li>Place bread in mixture for 30 seconds</li>
+                    <li>Place bread on pan</li>
+                    <li>Cook for 4 minutes</li>
+                    <li>Repeat previous three steps until you have achieved the desired amount of toast</li>
+                    <li>Serve with Maple Syrup</li>
+                </ol>
+            </p>
+            <p audience="armando">Original recipie: http://minimalistbaker.com/basic-vegan-french-toast/</p>
+        </context>
+    </taskbody>
+</task>

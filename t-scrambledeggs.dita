@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_osf_m1t_sx">
+    <title>How to Make Scrabled Eggs with Cheese</title>
+    <shortdesc>Makes 1 serving</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients and Materials:
+            <ul>
+                <li audience="mom">Bacon, 2 strips</li>
+                <li audience="mom">3 Eggs</li>
+                <li audience="mom">Shredded Cheese</li>
+                <li audience="armando">Olive Oil</li>
+                <li audience="armando">Tofu, 1 block</li>
+                <li audience="armando">Almond Parmesean</li>
+                <li>Medium Pan</li>
+                <li>Plate covered with paper towels</li>
+                <li>Tongs</li>
+                <li>Bowl and fork</li>
+                <li>Plastic spatula</li>
+            </ul>
+            Recipie:
+            <ol>
+                <li>Set stover burner to medium heat (5)</li>
+                <li audience="mom">Place bacon in pan</li>
+                <li audience="armando">Pour olive oil into the pan</li>
+                <li audience="mom">Cook for 5 min</li>
+                <li audience="armando">Slice tofu block into thin strips</li>
+                <li audience="mom">Remove bacon to plate with paper towel with tongs</li>
+                <li audience="mom">Crack eggs into bowl and beat with fork</li>
+                <li audience="mom">Pour beaten eggs into pan</li>
+                <li audience="armando">Place tofu strips into pan</li>
+                <li audience="mom">Add cheese to taste</li>
+                <li audience="armando">Add almond parmesean to taste</li>
+                <li audience="mom">Stir eggs and cheese with plastic spatula for 3 minutes</li>
+                <li>Serve</li>
+            </ol>
+            </p>
+        </context>
+    </taskbody>
+</task>

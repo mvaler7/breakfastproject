@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept id="concept_sp5_gq2_5x" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:concept.xsd" audience="mom">
+ <title>Where Things Are in the Kitchen</title>
+ <shortdesc>In case you have trouble finding anything.</shortdesc>
+ <conbody>
+  <p><b>Fridge:</b>
+   <ul>
+    <li><i>Top shelf</i>: leftovers, staples</li>
+    <li><i>Middle shelf</i>: Eggs, sandwitch meat, bacon</li>
+    <li><i>Bottom shelf</i>: Milk, Apple juice</li>
+    <li><i>Left drawer</i>: cheese</li>
+    <li><i>Right drawer</i>: Vegtables</li>
+   </ul></p><p>Utensils are in the drawer next to the oven.</p>
+   <p>Baking implements are in the drawer next to the fridge</p>
+   <p>Cooking utensils are in the drawer to the left of the dishwasher.</p>
+ </conbody>
+</concept>
