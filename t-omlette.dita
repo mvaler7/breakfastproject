@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_uvl_fv2_5x">
+    <title>How to Make <keyword keyref="omlette"/></title>
+    <shortdesc>Makes 1 serving</shortdesc>
+    <taskbody>
+        <context>
+            <p>Ingredients and Materials:
+                <ul>
+                    <li audience="mom">Bacon, 2 strips</li>
+                    <li audience="mom">3 Eggs</li>
+                    <li audience="mom">Shredded Cheese</li>
+                    <li audience="armando">Olive Oil</li>
+                    <li audience="armando">Tofu, 1 block</li>
+                    <li audience="armando">Almond Parmesean</li>
+                    <li audience="armando">2 Tbsp hummus</li>
+                    <li audience="armando">2 large cloves garlic, minced</li>
+                    <li audience="armando">2 Tbsp nutritional yeast</li>
+                    <li audience="armando">Salt and black pepper</li>
+                    <li audience="armando">1/4 tsp paprika</li>
+                    <li audience="armando">1 tsp cornstarch or arrowroot powder</li>  
+                    <li>Zuchinni</li>
+                    <li>Squash</li>
+                    <li>Medium Pan</li>
+                    <li audience="mom">Plate covered with paper towels</li>
+                    <li audience="armando">Food processor</li>
+                    <li>Tongs</li>
+                    <li>Bowl and fork</li>
+                    <li>Plastic spatula</li>
+                </ul>
+                Recipie:
+                <ol>
+                    <li>Set stove burner to medium heat (5)</li>
+                    <li audience="mom">Place bacon in pan</li>
+                    <li audience="armando">Pour olive oil and minced garlic into the pan. Cook untill golden brown.</li>
+                    <li audience="mom">Cook for 5 min</li>
+                    <li audience="armando">Transfer garlic to food processor, along with tofu and cornstarch and mix to combine</li>
+                    <li audience="mom">Remove bacon to plate with paper towel with tongs</li>
+                    <li audience="mom">Slice zuchinni and squash</li>
+                    <li audience="mom">Fry zuchinni and squash in bacon grease</li>
+                    <li>Cube zuchinni and squash</li>
+                    <li audience="armando">Add zuchinni and squash to omlette batter</li>
+                    <li audience="mom">Crack eggs into bowl and beat with fork</li>
+                    <li audience="mom">Pour beaten eggs into pan</li>
+                    <li audience="armando">Add batter to pan, cook for 7 minutes</li>
+                    <li audience="mom">Add vegtables and cheese</li>
+                    <li audience="armando">Add almond parmesean to taste</li>
+                    <li>Fold onto plate and Serve</li>
+                </ol>
+            </p>
+            <p audience="armando">Original recipie: http://minimalistbaker.com/simple-vegan-omelet/</p>
+        </context>
+    </taskbody>
+</task>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_bh4_w1f_5x">
+    <title>How to Make Grits</title>
+    <shortdesc/>A Deep South staple.
+    <taskbody>
+        <context>
+            <p>Ingredients and Materials:
+                <ul>
+                    <li audience="mom">Milk</li>
+                    <li audience="mom">Butter</li>
+                    <li audience="mom">Shredded Cheese</li>
+                    <li audience="armando">Almond Milk</li>
+                    <li audience="armando">Vegtable oil</li>
+                    <li audience="armando">Almond Parmesean</li>
+                    <li>Cornmeal</li>
+                    <li>1.5 tsp kosher salt</li>
+                    <li>Water</li>
+                    <li>Medium Pot</li>
+                    <li>Wisk</li>
+                </ul>
+                Recipie:
+                <ol>
+                    <li>Put stove on medium-high (7-8)</li>
+                    <li>Add milk, water, and salt to pot and bring to a boil</li>
+                    <li>Gradually add cornmeal while whisking</li>
+                    <li>Turn stove down to low (2-3) and cover with lid</li>
+                    <li>Remove lid and wisk every 3-4 minutes</li>
+                    <li>Cook for 20-25 minutes</li>
+                    <li>Remove from heat and add pepper and <keyword keyref="gritsfat"/></li>
+                    <li>Add <keyword keyref="gritscheese"/> to taste</li>
+                    <li>Serve</li>
+                </ol></p>
+            <p audience="armando">Original recipie: http://www.foodnetwork.com/recipes/alton-brown/cheese-grits-recipe.html</p>
+        </context>
+    </taskbody>
+</task>
