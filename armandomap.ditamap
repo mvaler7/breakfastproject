@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map audience="armando">
+ <title>The Little Breafast Book</title>
+ 
+ <keydef keys="eggs">
+  <topicmeta>
+   <keywords>
+    <keyword>Tofu Eggs with Almond Parmesean</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+ <keydef keys="omlette">
+  <topicmeta>
+   <keywords>
+    <keyword>a Vegan Omlette</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+
+ <keydef keys="gritsfat">
+  <topicmeta>
+   <keywords>
+    <keyword>vegtable oil</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+
+ <keydef keys="gritscheese">
+  <topicmeta>
+   <keywords>
+    <keyword>almond parmesean</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ 
+<topicref href="c-kitchen.dita"/>
+<topicref href="t-scrambledeggs.dita"/>
+<topicref href="t-frenchtoast.dita"/>
+<topicref href="t-omlette.dita"/>
+<topicref href="t-grits.dita"/>
+<topicref href="t-cleaning.dita"/>
+</map>
