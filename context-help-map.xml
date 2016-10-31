@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_sp5_gq2_5x" path="c-kitchen.html"/>
+   <appContext helpID="t-scrambledeggs" path="t-scrambledeggs.html"/>
+   <appContext helpID="task_nqr_lq2_5x" path="t-frenchtoast.html"/>
+   <appContext helpID="task_uvl_fv2_5x" path="t-omlette.html"/>
+   <appContext helpID="task_bh4_w1f_5x" path="t-grits.html"/>
+   <appContext helpID="t-cleaning" path="t-cleaning.html"/>
+</map>
